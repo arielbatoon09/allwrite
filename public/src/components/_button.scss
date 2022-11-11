@@ -1,0 +1,14 @@
+.btn-primary{
+    width: 100%;
+    border: none;
+    outline: none;
+    background: $clr-primary;
+    color: $clr-white;
+    padding: 10px 50px;
+    border-radius: 10px;
+    transition: all 0.2s ease-out;
+}
+.btn-primary:hover{
+    background: #8B39FD;
+    transition: all 0.2s ease-in;
+}
